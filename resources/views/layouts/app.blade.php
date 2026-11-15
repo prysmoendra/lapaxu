@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>@yield('title', 'Praxis Dashboard')</title>
+    <title>@yield('title', 'Lapaxu Dashboard')</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
@@ -124,7 +124,7 @@
             id: {
                 // Dashboard translations
                 dashboard_welcome: 'Selamat Datang',
-                dashboard_manage_store: 'Kelola toko Praxis e-commerce Anda dan pantau kinerja bisnis.',
+                dashboard_manage_store: 'Kelola toko Lapaxu e-commerce Anda dan pantau kinerja bisnis.',
                 dashboard_total_sales: 'Total Penjualan',
                 dashboard_total_orders: 'Total Pesanan',
                 dashboard_products: 'Produk',
@@ -205,7 +205,7 @@
             en: {
                 // Dashboard translations
                 dashboard_welcome: 'Welcome',
-                dashboard_manage_store: 'Manage your Praxis e-commerce store and track your business performance.',
+                dashboard_manage_store: 'Manage your Lapaxu e-commerce store and track your business performance.',
                 dashboard_total_sales: 'Total Sales',
                 dashboard_total_orders: 'Total Orders',
                 dashboard_products: 'Products',

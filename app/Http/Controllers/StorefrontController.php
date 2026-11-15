@@ -69,12 +69,12 @@ class StorefrontController extends Controller
     public static function generateStoreDomain($userName)
     {
         $baseDomain = strtolower(preg_replace('/[^a-zA-Z0-9]/', '', $userName));
-        $domain = $baseDomain . '.praxis.com';
+        $domain = $baseDomain . '.lapaxu.com';
         
         // Check if domain already exists
         $counter = 1;
         while (\App\Models\Store::where('domain', $domain)->exists()) {
-            $domain = $baseDomain . $counter . '.praxis.com';
+            $domain = $baseDomain . $counter . '.lapaxu.com';
             $counter++;
         }
         

@@ -5,7 +5,7 @@
             <!-- Logo -->
             <div class="flex items-center">
                 <a href="{{ route('home') }}" class="flex items-center">
-                    <img src="/images/svg-praxis.png" alt="Praxis Logo" class="h-6 w-auto">
+                    <img src="/images/svg-lapaxu.png" alt="Lapaxu Logo" class="h-6 w-auto">
                 </a>
             </div>
             <!-- User Dropdown -->

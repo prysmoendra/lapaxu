@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title data-translate-key="page_title">Praxis - Real Action, Your Digital Business</title>
-    <meta name="description" content="Praxis is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores.">
+    <title data-translate-key="page_title">Lapaxu - Real Action, Your Digital Business</title>
+    <meta name="description" content="Lapaxu is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores.">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <script>
@@ -155,7 +155,7 @@
                 <!-- Logo -->
                 <div class="flex items-center">
                     <a href="#home" class="flex items-center">
-                        <img src="/images/svg-praxis.png" alt="Praxis Logo" class="h-6 w-auto">
+                        <img src="/images/svg-lapaxu.png" alt="Lapaxu Logo" class="h-6 w-auto">
                     </a>
                 </div>
 
@@ -242,7 +242,7 @@
                     <span class="text-white" data-translate-key="hero_title_2">Your Digital Business</span>
                 </h1>
                 <p class="text-xl md:text-2xl text-neutral-200 mb-8 max-w-3xl mx-auto" data-translate-key="hero_subtitle">
-                    Praxis is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores with ease.
+                    Lapaxu is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores with ease.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                     <button onclick="scrollToSection('business-model')" class="gradient-bg text-white px-8 py-4 rounded-lg font-medium text-lg hover:brightness-110 transition-all duration-200 transform hover:scale-105" data-translate-key="hero_cta_1">
@@ -264,9 +264,9 @@
     <section id="about" class="py-20 bg-primary-surface">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <h2 class="text-3xl md:text-5xl font-bold pb-6 gradient-text" data-translate-key="about_title">About Praxis</h2>
+                <h2 class="text-3xl md:text-5xl font-bold pb-6 gradient-text" data-translate-key="about_title">About Lapaxu</h2>
                 <p class="text-xl text-neutral-200 max-w-4xl mx-auto" data-translate-key="about_subtitle">
-                    Praxis is more than just a tool; it's a partner ready to help you turn your ideas into reality. With an intuitive interface and step-by-step guides, we simplify the digitalization process for MSMEs.
+                    Lapaxu is more than just a tool; it's a partner ready to help you turn your ideas into reality. With an intuitive interface and step-by-step guides, we simplify the digitalization process for MSMEs.
                 </p>
             </div>
 
@@ -396,7 +396,7 @@
     <section id="features" class="py-20 bg-primary-dark">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <h2 class="text-3xl md:text-5xl font-bold pb-6 gradient-text" data-translate-key="features_title">Why Choose Praxis?</h2>
+                <h2 class="text-3xl md:text-5xl font-bold pb-6 gradient-text" data-translate-key="features_title">Why Choose Lapaxu?</h2>
                 <p class="text-xl text-neutral-200 max-w-3xl mx-auto" data-translate-key="features_subtitle">
                     Our comprehensive platform provides everything you need to build, manage, and grow your online business.
                 </p>
@@ -470,7 +470,7 @@
     <section id="how-it-works" class="py-20 bg-primary-surface">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <h2 class="text-3xl md:text-5xl font-bold pb-6 gradient-text" data-translate-key="how_it_works_title">How Praxis Works</h2>
+                <h2 class="text-3xl md:text-5xl font-bold pb-6 gradient-text" data-translate-key="how_it_works_title">How Lapaxu Works</h2>
                 <p class="text-xl text-neutral-200 max-w-3xl mx-auto" data-translate-key="how_it_works_subtitle">
                     Get your online store up and running in just a few simple steps.
                 </p>
@@ -820,7 +820,7 @@
                 Ready to Transform Your Business?
             </h2>
             <p class="text-xl text-neutral-200 mb-8 max-w-2xl mx-auto" data-translate-key="cta_subtitle">
-                With Praxis, your path to digital success is more focused, faster, and more affordable. Let's take concrete action together to build the future of your business.
+                With Lapaxu, your path to digital success is more focused, faster, and more affordable. Let's take concrete action together to build the future of your business.
             </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
                     <button id="cta-trial-signup-btn" class="gradient-bg text-white px-8 py-4 rounded-lg font-medium text-lg hover:brightness-110 transition-all duration-200 transform hover:scale-105" data-translate-key="cta_trial_button">
@@ -840,7 +840,7 @@
                 <!-- Company Info -->
                 <div class="col-span-1">
                     <a href="#" class="flex items-center mb-6">
-                    <img src="/images/svg-praxis.png" alt="Praxis Logo" class="h-8 w-auto">
+                    <img src="/images/svg-lapaxu.png" alt="Lapaxu Logo" class="h-8 w-auto">
                 </a>
                     <p class="text-neutral-200 mb-4 font-medium" data-translate-key="footer_tagline">Real Action, Your Digital Business</p>
                     <p class="text-neutral-400 text-sm leading-relaxed" data-translate-key="footer_description">Empowering MSMEs to build successful online stores with ease and confidence. We believe that every business owner has great potential, and with practical technology, they can compete globally without losing their local identity.</p>
@@ -880,7 +880,7 @@
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
                                 </svg>
                             </div>
-                            <span class="text-neutral-300 font-medium">dakodeid@praxis.id</span>
+                            <span class="text-neutral-300 font-medium">dakodeid@lapaxu.id</span>
                         </div>
                         <div class="flex items-center space-x-3">
                             <div class="w-8 h-8 gradient-bg rounded-lg flex items-center justify-center">
@@ -933,7 +933,7 @@
             <div class="mt-12 pt-8 border-t border-neutral-500">
                 <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                     <div class="flex items-center space-x-6">
-                        <span class="text-neutral-400 text-sm" data-translate-key="footer_copyright">&copy; {{ date('Y') }} Praxis. All Rights Reserved.</span>
+                        <span class="text-neutral-400 text-sm" data-translate-key="footer_copyright">&copy; {{ date('Y') }} Lapaxu. All Rights Reserved.</span>
                         <a href="#" class="text-neutral-400 hover:text-white text-sm transition-colors duration-200" data-translate-key="footer_privacy">Privacy Policy</a>
                         <a href="#" class="text-neutral-400 hover:text-white text-sm transition-colors duration-200" data-translate-key="footer_terms">Terms of Service</a>
                         <a href="#" class="text-neutral-400 hover:text-white text-sm transition-colors duration-200" data-translate-key="footer_cookies">Cookie Policy</a>
@@ -966,7 +966,7 @@
                 <form id="loginForm" onsubmit="handlePhoneCheck(event)" class="flex flex-col gap-2">
                     @csrf
                     <div class="flex flex-col gap-6">
-                        <h1 class="text-2xl font-bold text-gray-800" data-translate-key="modal_welcome">Welcome to Praxis</h1>
+                        <h1 class="text-2xl font-bold text-gray-800" data-translate-key="modal_welcome">Welcome to Lapaxu</h1>
                         <div class="flex flex-col gap-4">
                             <div>
                                 <label for="country" class="block text-sm font-medium text-gray-700" data-translate-key="modal_country">Negara/Wilayah</label>
@@ -1380,8 +1380,8 @@
             const translations = {
                 id: {
                     // Page Meta
-                    page_title: "Praxis - Aksi Nyata, Bisnis Digital Anda",
-                    page_description: "Praxis adalah platform pembangun e-commerce yang dirancang khusus untuk membantu UMKM membangun toko online mereka sendiri.",
+                    page_title: "Lapaxu - Aksi Nyata, Bisnis Digital Anda",
+                    page_description: "Lapaxu adalah platform pembangun e-commerce yang dirancang khusus untuk membantu UMKM membangun toko online mereka sendiri.",
                     
                     // Navigation
                     nav_about: "Tentang Kami",
@@ -1394,13 +1394,13 @@
                     // Hero Section
                     hero_title_1: "Aksi Nyata,",
                     hero_title_2: "Bisnis Digital Anda",
-                    hero_subtitle: "Praxis adalah platform pembangun e-commerce yang dirancang khusus untuk membantu UMKM membangun toko online mereka sendiri dengan mudah.",
+                    hero_subtitle: "Lapaxu adalah platform pembangun e-commerce yang dirancang khusus untuk membantu UMKM membangun toko online mereka sendiri dengan mudah.",
                     hero_cta_1: "Buat Toko Anda",
                     hero_cta_2: "Tonton Demo",
                     
                     // About Section
-                    about_title: "Tentang Praxis",
-                    about_subtitle: "Praxis lebih dari sekadar alat; ini adalah mitra yang siap membantu Anda mewujudkan ide-ide Anda. Dengan antarmuka yang intuitif dan panduan langkah demi langkah, kami menyederhanakan proses digitalisasi untuk UMKM.",
+                    about_title: "Tentang Lapaxu",
+                    about_subtitle: "Lapaxu lebih dari sekadar alat; ini adalah mitra yang siap membantu Anda mewujudkan ide-ide Anda. Dengan antarmuka yang intuitif dan panduan langkah demi langkah, kami menyederhanakan proses digitalisasi untuk UMKM.",
                     about_challenges_title: "Tantangan Kami",
                     about_challenges_1: "• Akses teknologi yang terbatas",
                     about_challenges_2: "• Kurangnya pengetahuan teknis",
@@ -1434,7 +1434,7 @@
                     mission_solutions_4: "Dukungan pertumbuhan melalui analitik dan otomatisasi.",
                     
                     // Features Section
-                    features_title: "Mengapa Memilih Praxis?",
+                    features_title: "Mengapa Memilih Lapaxu?",
                     features_subtitle: "Platform komprehensif kami menyediakan semua yang Anda butuhkan untuk membangun, mengelola, dan mengembangkan bisnis online Anda.",
                     features_no_code_title: "Solusi Tanpa Kode",
                     features_no_code_desc: "Buat toko online Anda tanpa pengetahuan teknis. Antarmuka drag-and-drop kami memudahkan siapa saja.",
@@ -1450,7 +1450,7 @@
                     features_payments_desc: "Gateway pembayaran terintegrasi dengan keamanan tingkat bank. Terima pembayaran dari berbagai metode lokal dan internasional.",
                     
                     // How It Works Section
-                    how_it_works_title: "Cara Kerja Praxis",
+                    how_it_works_title: "Cara Kerja Lapaxu",
                     how_it_works_subtitle: "Dapatkan toko online Anda berjalan hanya dalam beberapa langkah sederhana.",
                     how_it_works_step1_title: "Daftar Akun",
                     how_it_works_step1_desc: "Daftar dan aktifkan akun Anda hanya dalam beberapa menit dengan proses pendaftaran sederhana kami.",
@@ -1531,7 +1531,7 @@
                     
                     // CTA Section
                     cta_title: "Siap Mengubah Bisnis Anda?",
-                    cta_subtitle: "Dengan Praxis, jalan menuju kesuksesan digital Anda lebih fokus, lebih cepat, dan lebih terjangkau. Mari kita ambil aksi nyata bersama untuk membangun masa depan bisnis Anda.",
+                    cta_subtitle: "Dengan Lapaxu, jalan menuju kesuksesan digital Anda lebih fokus, lebih cepat, dan lebih terjangkau. Mari kita ambil aksi nyata bersama untuk membangun masa depan bisnis Anda.",
                     cta_trial_button: "Mulai Uji Coba Gratis",
                     cta_demo_button: "Jadwalkan Demo",
                     
@@ -1552,7 +1552,7 @@
                     footer_services_reports: "Laporan Kinerja",
                     footer_connect_title: "Terhubung Dengan Kami",
                     footer_follow_title: "Ikuti Kami",
-                    footer_copyright: "© {{ date('Y') }} Praxis. Semua Hak Dilindungi.",
+                    footer_copyright: "© {{ date('Y') }} Lapaxu. Semua Hak Dilindungi.",
                     footer_privacy: "Kebijakan Privasi",
                     footer_terms: "Ketentuan Layanan",
                     footer_cookies: "Kebijakan Cookie",
@@ -1561,7 +1561,7 @@
                     
                     // Modal Section
                     modal_title: "Masuk atau mendaftar",
-                    modal_welcome: "Selamat Datang di Praxis",
+                    modal_welcome: "Selamat Datang di Lapaxu",
                     modal_country: "Negara/Wilayah",
                     modal_phone: "Nomor telepon",
                     modal_phone_placeholder: "Masukkan nomor telepon",
@@ -1591,8 +1591,8 @@
                 },
                 en: {
                     // Page Meta
-                    page_title: "Praxis - Real Action, Your Digital Business",
-                    page_description: "Praxis is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores.",
+                    page_title: "Lapaxu - Real Action, Your Digital Business",
+                    page_description: "Lapaxu is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores.",
                     
                     // Navigation
                     nav_about: "About",
@@ -1605,13 +1605,13 @@
                     // Hero Section
                     hero_title_1: "Real Action,",
                     hero_title_2: "Your Digital Business",
-                    hero_subtitle: "Praxis is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores with ease.",
+                    hero_subtitle: "Lapaxu is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores with ease.",
                     hero_cta_1: "Build Your Store",
                     hero_cta_2: "Watch Demo",
                     
                     // About Section
-                    about_title: "About Praxis",
-                    about_subtitle: "Praxis is more than just a tool; it's a partner ready to help you turn your ideas into reality. With an intuitive interface and step-by-step guides, we simplify the digitalization process for MSMEs.",
+                    about_title: "About Lapaxu",
+                    about_subtitle: "Lapaxu is more than just a tool; it's a partner ready to help you turn your ideas into reality. With an intuitive interface and step-by-step guides, we simplify the digitalization process for MSMEs.",
                     about_challenges_title: "Our Challenges",
                     about_challenges_1: "• Limited access to technology",
                     about_challenges_2: "• Lack of technical knowledge",
@@ -1645,7 +1645,7 @@
                     mission_solutions_4: "Growth support through analytics and automation.",
                     
                     // Features Section
-                    features_title: "Why Choose Praxis?",
+                    features_title: "Why Choose Lapaxu?",
                     features_subtitle: "Our comprehensive platform provides everything you need to build, manage, and grow your online business.",
                     features_no_code_title: "No-Code Solution",
                     features_no_code_desc: "Build your online store without any technical knowledge. Our drag-and-drop interface makes it easy for anyone.",
@@ -1661,7 +1661,7 @@
                     features_payments_desc: "Integrated payment gateways with bank-level security. Accept payments from various local and international methods.",
                     
                     // How It Works Section
-                    how_it_works_title: "How Praxis Works",
+                    how_it_works_title: "How Lapaxu Works",
                     how_it_works_subtitle: "Get your online store up and running in just a few simple steps.",
                     how_it_works_step1_title: "Register Account",
                     how_it_works_step1_desc: "Sign up and activate your account in just minutes with our simple registration process.",
@@ -1742,7 +1742,7 @@
                     
                     // CTA Section
                     cta_title: "Ready to Transform Your Business?",
-                    cta_subtitle: "With Praxis, your path to digital success is more focused, faster, and more affordable. Let's take concrete action together to build the future of your business.",
+                    cta_subtitle: "With Lapaxu, your path to digital success is more focused, faster, and more affordable. Let's take concrete action together to build the future of your business.",
                     cta_trial_button: "Start Your Free Trial",
                     cta_demo_button: "Schedule a Demo",
                     
@@ -1763,7 +1763,7 @@
                     footer_services_reports: "Performance Reports",
                     footer_connect_title: "Connect With Us",
                     footer_follow_title: "Follow Us",
-                    footer_copyright: "© {{ date('Y') }} Praxis. All Rights Reserved.",
+                    footer_copyright: "© {{ date('Y') }} Lapaxu. All Rights Reserved.",
                     footer_privacy: "Privacy Policy",
                     footer_terms: "Terms of Service",
                     footer_cookies: "Cookie Policy",
@@ -1772,7 +1772,7 @@
                     
                     // Modal Section
                     modal_title: "Sign in or sign up",
-                    modal_welcome: "Welcome to Praxis",
+                    modal_welcome: "Welcome to Lapaxu",
                     modal_country: "Country/Region",
                     modal_phone: "Phone number",
                     modal_phone_placeholder: "Enter your phone number",
