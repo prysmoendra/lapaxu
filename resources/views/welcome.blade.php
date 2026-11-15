@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title data-translate-key="page_title">Lapaxu - Real Action, Your Digital Business</title>
+    <title data-translate-key="page_title">Lapaxu - Your Shop, Your Digital Business</title>
     <meta name="description" content="Lapaxu is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores.">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -173,7 +173,7 @@
         <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div class="animate-fade-in">
                 <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold mb-6">
-                    <span class="gradient-text" data-translate-key="hero_title_1">Real Action,</span><br>
+                    <span class="gradient-text" data-translate-key="hero_title_1">Your Shop,</span><br>
                     <span class="text-white" data-translate-key="hero_title_2">Your Digital Business</span>
                 </h1>
                 <p class="text-xl md:text-2xl text-neutral-200 mb-8 max-w-3xl mx-auto" data-translate-key="hero_subtitle">
@@ -777,7 +777,7 @@
                     <a href="#" class="flex items-center mb-6">
                     <img src="/images/svg-lapaxu.png" alt="Lapaxu Logo" class="h-8 w-auto">
                 </a>
-                    <p class="text-neutral-200 mb-4 font-medium" data-translate-key="footer_tagline">Real Action, Your Digital Business</p>
+                    <p class="text-neutral-200 mb-4 font-medium" data-translate-key="footer_tagline">Your Shop, Your Digital Business</p>
                     <p class="text-neutral-400 text-sm leading-relaxed" data-translate-key="footer_description">Empowering MSMEs to build successful online stores with ease and confidence. We believe that every business owner has great potential, and with practical technology, they can compete globally without losing their local identity.</p>
                 </div>
 
@@ -1315,7 +1315,7 @@
             const translations = {
                 id: {
                     // Page Meta
-                    page_title: "Lapaxu - Aksi Nyata, Bisnis Digital Anda",
+                    page_title: "Lapaxu - Lapakmu, Bisnis Digitalmu",
                     page_description: "Lapaxu adalah platform pembangun e-commerce yang dirancang khusus untuk membantu UMKM membangun toko online mereka sendiri.",
                     
                     // Navigation
@@ -1327,8 +1327,8 @@
                     nav_start_free: "Mulai Gratis",
                     
                     // Hero Section
-                    hero_title_1: "Aksi Nyata,",
-                    hero_title_2: "Bisnis Digital Anda",
+                    hero_title_1: "Lapakmu,",
+                    hero_title_2: "Bisnis Digitalmu",
                     hero_subtitle: "Lapaxu adalah platform pembangun e-commerce yang dirancang khusus untuk membantu UMKM membangun toko online mereka sendiri dengan mudah.",
                     hero_cta_1: "Buat Toko Anda",
                     hero_cta_2: "Tonton Demo",
@@ -1466,12 +1466,12 @@
                     
                     // CTA Section
                     cta_title: "Siap Mengubah Bisnis Anda?",
-                    cta_subtitle: "Dengan Lapaxu, jalan menuju kesuksesan digital Anda lebih fokus, lebih cepat, dan lebih terjangkau. Mari kita ambil aksi nyata bersama untuk membangun masa depan bisnis Anda.",
+                    cta_subtitle: "Dengan Lapaxu, jalan menuju kesuksesan digital Anda lebih fokus, lebih cepat, dan lebih terjangkau. Mari melangkah bersama untuk membangun masa depan bisnis Anda.",
                     cta_trial_button: "Mulai Uji Coba Gratis",
                     cta_demo_button: "Jadwalkan Demo",
                     
                     // Footer Section
-                    footer_tagline: "Aksi Nyata, Bisnis Digital Anda",
+                    footer_tagline: "Lapakmu, Bisnis Digitalmu",
                     footer_description: "Memberdayakan UMKM untuk membangun toko online yang sukses dengan mudah dan percaya diri. Kami percaya bahwa setiap pemilik bisnis memiliki potensi besar, dan dengan teknologi praktis, mereka dapat bersaing secara global tanpa kehilangan identitas lokal mereka.",
                     footer_quick_links_title: "Tautan Cepat",
                     footer_quick_links_about: "Tentang Kami",
@@ -1526,7 +1526,7 @@
                 },
                 en: {
                     // Page Meta
-                    page_title: "Lapaxu - Real Action, Your Digital Business",
+                    page_title: "Lapaxu - Your Shop, Your Digital Business",
                     page_description: "Lapaxu is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores.",
                     
                     // Navigation
@@ -1538,7 +1538,7 @@
                     nav_start_free: "Start for free",
                     
                     // Hero Section
-                    hero_title_1: "Real Action,",
+                    hero_title_1: "Your Shop,",
                     hero_title_2: "Your Digital Business",
                     hero_subtitle: "Lapaxu is an e-commerce builder platform specifically designed to assist MSMEs in building their own online stores with ease.",
                     hero_cta_1: "Build Your Store",
@@ -1682,7 +1682,7 @@
                     cta_demo_button: "Schedule a Demo",
                     
                     // Footer Section
-                    footer_tagline: "Real Action, Your Digital Business",
+                    footer_tagline: "Your Shop, Your Digital Business",
                     footer_description: "Empowering MSMEs to build successful online stores with ease and confidence. We believe that every business owner has great potential, and with practical technology, they can compete globally without losing their local identity.",
                     footer_quick_links_title: "Quick Links",
                     footer_quick_links_about: "About Us",
