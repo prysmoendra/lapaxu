@@ -18,22 +18,22 @@ body {
 
 /* How it works - Step Cards */
 .card-step {
-    @apply bg-praxis-surface border border-praxis-border rounded-lg p-6 transition-all duration-300;
+    @apply bg-lapaxu-surface border border-lapaxu-border rounded-lg p-6 transition-all duration-300;
 }
 .card-step:hover {
-    @apply border-praxis-accent transform -translate-y-2;
+    @apply border-lapaxu-accent transform -translate-y-2;
     box-shadow: 0 10px 25px rgba(34, 165, 179, 0.1);
 }
 .step-number {
-    @apply h-12 w-12 flex items-center justify-center mx-auto mb-4 bg-praxis-surface-secondary text-praxis-accent font-bold text-xl rounded-full border border-praxis-border;
+    @apply h-12 w-12 flex items-center justify-center mx-auto mb-4 bg-lapaxu-surface-secondary text-lapaxu-accent font-bold text-xl rounded-full border border-lapaxu-border;
 }
 
 /* Values Section - Value Cards */
 .value-card {
-    @apply bg-praxis-surface-secondary p-6 rounded-lg border border-transparent transition-all duration-300;
+    @apply bg-lapaxu-surface-secondary p-6 rounded-lg border border-transparent transition-all duration-300;
 }
 .value-card:hover {
-    @apply border-praxis-border;
+    @apply border-lapaxu-border;
 }
 
 /* Scroll Animation Placeholder */

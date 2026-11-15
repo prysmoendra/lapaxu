@@ -1,12 +1,12 @@
 @extends('layouts.app')
-@section('title', 'Praxis Dashboard - ' . ($user->name ?? ''))
+@section('title', 'Lapaxu Dashboard - ' . ($user->name ?? ''))
 @section('content')
 <!-- Welcome Section -->
 <div class="mb-8">
     <h1 class="text-3xl font-bold text-text-primary mb-2">
         <span id="greeting" data-translate-key="greeting_morning">Good Morning</span>, {{ $user->name }}!
     </h1>
-    <p class="text-text-secondary" data-translate-key="dashboard_manage_store">Manage your Praxis e-commerce store and track your business performance.</p>
+    <p class="text-text-secondary" data-translate-key="dashboard_manage_store">Manage your Lapaxu e-commerce store and track your business performance.</p>
 </div>
 
 <!-- Modal Dashboard Ready -->
@@ -632,7 +632,7 @@
         id: {
             // Dashboard translations
             dashboard_welcome: 'Selamat Datang',
-            dashboard_manage_store: 'Kelola toko Praxis e-commerce Anda dan pantau kinerja bisnis.',
+            dashboard_manage_store: 'Kelola toko Lapaxu e-commerce Anda dan pantau kinerja bisnis.',
             dashboard_total_sales: 'Total Penjualan',
             dashboard_total_orders: 'Total Pesanan',
             dashboard_products: 'Produk',
@@ -714,7 +714,7 @@
         en: {
             // Dashboard translations
             dashboard_welcome: 'Welcome',
-            dashboard_manage_store: 'Manage your Praxis e-commerce store and track your business performance.',
+            dashboard_manage_store: 'Manage your Lapaxu e-commerce store and track your business performance.',
             dashboard_total_sales: 'Total Sales',
             dashboard_total_orders: 'Total Orders',
             dashboard_products: 'Products',

@@ -75,7 +75,7 @@ Route::post('/online-store/themes/{themeId}/apply', [App\Http\Controllers\ThemeC
 
 // Multi-tenant storefront routes
 Route::get('/{userDomain}', [App\Http\Controllers\StorefrontController::class, 'show'])
-    ->where('userDomain', '[a-z0-9-]+\.praxis\.com')
+    ->where('userDomain', '[a-z0-9-]+\.lapaxu\.com')
     ->name('storefront.show');
 
 // Test order route for development
