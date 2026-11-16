@@ -54,6 +54,9 @@ return [
 
     'url' => env('APP_URL', 'http://localhost'),
 
+    // Base domain for tenant storefront subdomains ({store}.<domain>)
+    'store_domain' => env('APP_STORE_DOMAIN', 'dakode.web.id'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Timezone
